@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Nuget Packages
+MvcApplication1/packages/
+
+# Visual studio files
+*.suo
+*.csproj.user
+
+# Build directories
+MvcApplication1/MvcApplication1/bin/
+MvcApplication1/MvcApplication1/obj/
+
+
